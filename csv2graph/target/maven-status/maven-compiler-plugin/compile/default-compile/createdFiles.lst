@@ -1,0 +1,4 @@
+com\thoughti\neo4j\ElasticSearchPost.class
+com\thoughti\neo4j\Neo4jSession.class
+com\thoughti\neo4j\Neo4jFetch.class
+com\thoughti\neo4j\Neo4jCsvParser.class
