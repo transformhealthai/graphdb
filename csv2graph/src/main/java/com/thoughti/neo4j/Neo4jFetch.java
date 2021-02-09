@@ -80,6 +80,8 @@ public class Neo4jFetch {
 
 				System.out.println("--------- jsonArray --> " + jsonObjectList);
 
+			}finally {
+				driver.close();
 			}
 		} catch (Exception ex) {
 			ex.printStackTrace();
